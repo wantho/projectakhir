@@ -1,0 +1,131 @@
+.container-fluid{
+    position: absolute;
+    width: 1440px;
+    margin-top: 22px;
+    opacity: 0.6;
+    background-color: #F1F2F6;
+}
+.kotak{
+    position:absolute;
+    box-sizing: border-box;
+    border: 1.5px solid #F1F2F6;
+    border-radius: 8px;
+    width: 414px;
+    height: 242px;
+    margin-top: 80px;
+    margin-left: 530px;
+    background-color:#FFFFFF ;
+}
+#a1{
+    position: absolute;
+    width: 42px;
+    height:42px;
+    margin-left:-200px;
+    margin-top: 10px;
+}
+.nama1{
+    position: absolute;
+    font-family: Montserrat sans-serif;
+    width: 196px;
+    height:16px;
+    font-weight: bold;
+    font-size: 13px; 
+    color: #788292;
+    margin-left: -90px;
+    margin-top: 10px;
+}
+#a2{
+    position:absolute;
+    font-size: 13px;
+    width: 196px;
+    height: 16px;
+    margin-left: -45px;
+    font-weight: 80;
+}
+#a3{
+    margin-top : 50px;
+}
+#a4{
+    position: absolute;
+    width: 42px;
+    height:42px;
+    margin-left:-200px;
+    margin-top: -10px;
+}
+.nama2{
+    position: absolute;
+    font-family: 'Montserrat' sans-serif;
+    width: 196px;
+    height:16px;
+    font-weight: bold;
+    font-size: 13px; 
+    color: #788292;
+    margin-left: -80px;
+    margin-top: 60px;
+}
+#a5{
+    position:absolute;
+    font-size: 13px;
+    width: 196px;
+    height: 16px;
+    margin-left: -20px;
+    font-weight: 80;
+}
+#a6{
+    margin-top : 60px;
+}
+#a7{
+    position: absolute;
+    width: 42px;
+    height:42px;
+    margin-left:-200px;
+    margin-top: -10px;
+}
+.nama3{
+    position: absolute;
+    font-family: 'Montserrat' sans-serif;
+    width: 196px;
+    height:16px;
+    font-weight: bold;
+    font-size: 13px; 
+    color: #788292;
+    margin-left: -80px;
+    margin-top: 120px;
+}
+#a8{
+    position:absolute;
+    font-size: 13px;
+    width: 196px;
+    height: 16px;
+    margin-left: -50px;
+    font-weight: 80;
+}
+#a9{
+    margin-top : 60px;
+}
+#a10{
+    position: absolute;
+    width: 42px;
+    height:42px;
+    margin-left:-200px;
+    margin-top: -10px;
+}
+.nama4{
+    position: absolute;
+    font-family: 'Montserrat' sans-serif;
+    width: 196px;
+    height:16px;
+    font-weight: bold;
+    font-size: 13px; 
+    color: #788292;
+    margin-left: -80px;
+    margin-top: 180px;
+}
+#a11{
+    position:absolute;
+    font-size: 13px;
+    width: 196px;
+    height: 16px;
+    margin-left: -20px;
+    font-weight: 80;
+}
