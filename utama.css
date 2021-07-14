@@ -1,0 +1,72 @@
+.container-fluid{
+    width:100%;
+    height:100%;
+    opacity: 60%;
+    background: #F1F2F6;
+}
+.utama {
+    width: 297px;
+    margin-left: 280px;
+    margin-top: 200px;
+    font-family: 'Montserrat' sans-serif;
+    font-style: normal;
+    font-size: 64px;
+    line-height: 78px;
+    color: #F36E39;
+}
+
+.text{
+    position: absolute;
+    width: 400px;
+    height: 69px;
+    left: 250px;
+    margin-top: 40px;
+    font-family: 'Montserrat' sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 29px;
+    color: #000000;
+}
+
+.box-login{
+    box-sizing: border-box;
+    border: 1px solid black;
+    width:445px;
+    height: 317px;
+    margin-top: -100px;
+    margin-left: 700px;
+    border-radius:10px;
+    padding: 20px;
+    background-color: #FFFFFF;
+}
+.form-group{
+    box-sizing: border-box;
+    border-radius: 30px;
+    padding : 30px;
+    margin-top: 10px;
+    margin-left: -10px;
+    width: 400px;
+   
+}
+
+.btn1{
+    width: 400px;
+    height: 40px;
+    margin-left: -200px;
+    margin-top: 10px;
+}
+.btn2{
+    width: 150px;
+    height: 40px;
+    margin-left: -70px;
+    margin-top: 10px;
+}
+hr{
+    border: 1px solid #788292;
+    
+    
+} 
+@media screen and (max-width: 450px) {
+    
+}
