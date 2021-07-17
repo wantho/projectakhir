@@ -21,7 +21,7 @@ import './Status1.css';
                 <div className="box2">
                         <img id="e" src={User1} />
                         <h4>Thomas Ben <span> <img id="i" src={Titik} /></span> </h4>
-                        <h5>45 mins ago</h5>
+                        <h5 className="jamupdate">45 mins ago</h5>
                         <p className="paragraf1">Being a father is sometimes my hardest but always my most rewarding job. Happy Father’s Day to all dads out there. </p>
                         <img id="f" src={Like} alt="" />
                         <img id="g" src={Komentar} alt="" />
@@ -29,8 +29,8 @@ import './Status1.css';
                 </div>
                 <div className="box3">
                         <img id="j" src={User2} />
-                        <h3>Miranda Shaffer <span> <img id="k" src={Titik} /></span> </h3>
-                        <h5>June 21, 12:45 pm</h5>
+                        <h3 className="miranda">Miranda Shaffer <span> <img id="k" src={Titik} /></span> </h3>
+                        <h5 className="tglupdate">June 21, 12:45 pm</h5>
                         <p className="paragraf2">
                         Having fun while cooking and eating variety of foods with <span id="warnadinama">@Sarah</span>
                         </p>
@@ -64,7 +64,7 @@ import './Status1.css';
                 <div className="box8">
                     <img id="y" src={User6} />
                     <h3 className="user6">David Cox <span> <img id="k" src={Titik} /></span> </h3>
-                    <h5>June 21, 11:30 am</h5>
+                    <h5 className="update">June 21, 11:30 am</h5>
                 </div>
 
                 {/* <div>

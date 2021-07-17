@@ -36,12 +36,12 @@ h4{
    opacity: 0.4; 
    color: hsla(217, 11%, 52%, 1);
 }
-h5{
+.jamupdate{
     position: absolute;
     width: 67px;
     height: 13px;
-    left: 10px;
-    top: 30px;
+    left: 80px;
+    top: 40px;
     font-size: 11px;
     line-height: 13px;
     color: #788292;
@@ -99,11 +99,11 @@ h5{
     top: 10px;
     left: 20px;
 }
-h3{
+.miranda{
     position : absolute;
     width: 300px;
     height: 30px;
-    left: 3px;
+    left: 90px;
     top: 10px;
     font-size: 15px;
     font-weight: bold;
@@ -119,12 +119,12 @@ h3{
    opacity: 0.4; 
    color: hsla(217, 11%, 52%, 1);
 }
-h5{
+.tglupdate{
     position: absolute;
     width: 93px;
     height: 13px;
-    left: 40px;
-    top: 30px;
+    left: 90px;
+    top: 40px;
     font-size: 11px;
     line-height: 13px;
     color: #788292;
@@ -148,7 +148,7 @@ h5{
   width: 554px;
   height:233px;
   margin-top: 120px;
-  margin-left: -280px;
+  margin-left: 30px;
 }
 #m{
     position:absolute;
@@ -179,7 +179,7 @@ h5{
     width:50px;
     height:50px;
     margin-top: 400px;
-    margin-left: -280px;
+    margin-left: 30px;
 }
 .box4{
     position: absolute;
@@ -198,6 +198,8 @@ h5{
     font-weight: 700;
     font-size: 13px;
     color: #203758;
+    left: 10px;
+    top:10px;
 }
 .paragraf3{
     position: absolute;
@@ -205,7 +207,7 @@ h5{
     height: 26px;
     font-size: 14px;
     color: #203758;
-    margin-left: -2px;
+    margin-left: 10px;
     padding-top: 30px;
 }
 .box5{
@@ -223,7 +225,7 @@ h5{
     width:50px;
     height:50px;
     margin-top: 480px;
-    margin-left: -280px;
+    margin-left: 30px;
 }
 .user4{
     position: absolute;
@@ -231,7 +233,8 @@ h5{
     height: 16px;
     font-weight: 700;
     font-size: 13px;
-    margin-left: -30px;
+    margin-left: 10px;
+    margin-top:10px;
     color: #203758;
 }
 .paragraf4{
@@ -240,7 +243,7 @@ h5{
     height: 26px;
     font-size: 12px;
     color: #203758;
-    margin-left: 4px;
+    margin-left: 10px;
     padding-top: 30px;
 }
 #r{
@@ -248,14 +251,14 @@ h5{
     width:10px;
     height:5px;
     margin-top: 510px;
-    margin-left: 120px;
+    margin-left: 425px;
 }
 #s{
     position : absolute;
     width:12px;
     height:12px;
     margin-top: 500px;
-    margin-left: 160px;
+    margin-left: 450px;
 }
 #u{
     position : absolute;
@@ -264,7 +267,7 @@ h5{
     font-family: 'Montserrat' sans-serif;
     font-weight: 500;
     margin-top: 500px;
-    margin-left: 180px;
+    margin-left: 470px;
     font-size: 11px;
     color: #203758;
 }
@@ -273,7 +276,7 @@ h5{
     width:12px;
     height:12px;
     margin-top: 520px;
-    margin-left: 160px;
+    margin-left: 450px;
 }
 #v{
     position : absolute;
@@ -281,7 +284,7 @@ h5{
     height:13px;
     font-weight: 500;
     margin-top: 520px;
-    margin-left: 180px;
+    margin-left: 470px;
     font-size: 11px;
     color: #203758;
 }
@@ -290,7 +293,7 @@ h5{
     width:50px;
     height:50px;
     margin-top: 560px;
-    margin-left: -280px;
+    margin-left: 30px;
 }
 .box6{
     position: absolute;
@@ -308,7 +311,8 @@ h5{
     height: 16px;
     font-weight: 700;
     font-size: 13px;
-    margin-left: -10px;
+    margin-left: 10px;
+    margin-top:10px;
     color: #203758;
 }
 .paragraf5{
@@ -317,7 +321,7 @@ h5{
     height: 26px;
     font-size: 14px;
     color: #203758;
-    margin-left: -20px;
+    margin-left: 10px;
     padding-top: 30px;
 }
 #x{
@@ -325,7 +329,7 @@ h5{
     width:50px;
     height:50px;
     margin-top: 640px;
-    margin-left: -280px;
+    margin-left: 30px;
 }
 .box7{
     position: absolute;
@@ -360,15 +364,20 @@ h5{
     position:absolute;
     width:50px;
     height:50px;
-    margin-left: -280px;
+    margin-left: 30px;
     margin-top: 10px;
 }
 .user6{
     position : absolute;
-    width:75px;
-    height:20px;
+    width:100px;
+    height:50px;
     margin-top: 10px;
     margin-left: 100px;
+    font-family: 'Montserrat' sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
 }
 #k{
     position: absolute;
@@ -379,12 +388,12 @@ h5{
    opacity: 0.4; 
    color: hsla(217, 11%, 52%, 1);
 }
-h5{
+.update{
     position: absolute;
     width: 120px;
     height: 30px;
-    margin-left: 50px;
-    margin-top: 15px;
+    margin-left: 100px;
+    margin-top: 40px;
     font-size: 11px;
     line-height: 13px;
     color: #788292;
